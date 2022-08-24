@@ -12,15 +12,6 @@
                 "InterstitialAdKey": "1731182223930042_1731186033929661",
                 "RewardedAdKey": "1731182223930042_1731186547262943",
                 "NativeAdKey": ""
-            },
-            {
-                "MonetizationId": 6,
-                "MonetizerName": "ironSource",
-                "AdAppKey": "",
-                "BannerAdKey": "",
-                "InterstitialAdKey": "",
-                "RewardedAdKey": "",
-                "NativeAdKey": ""
             }
         ]
     },
